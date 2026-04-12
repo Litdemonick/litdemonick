@@ -262,9 +262,12 @@
 
 <br/>
 
-**¿Tienes un proyecto épico? ¡Hablemos!**
 
-[![Email](https://img.shields.io/badge/📩%20Enviar%20Mensaje-badleon2744@gmail.com-9b00ff?style=for-the-badge)](mailto:badleon2744@gmail.com)
+### **¿Tienes un proyecto épico? ¡Hablemos!**
+
+[![Email](https://img.shields.io/badge/📩_Enviar_Mensaje-badleon2744@gmail.com-9b00ff?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:badleon2744@gmail.com)
+
+**Email:** `badleon2744@gmail.com`
 
 </div>
 

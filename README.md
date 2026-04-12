@@ -286,7 +286,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu%20Nombre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/litdemonick)
 [![Instagram](https://img.shields.io/badge/Instagram-@litdemonick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/litdemonick)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@litdemonick-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/litdemonick)
-[![YouTube](https://img.shields.io/badge/YouTube-@xampp_27-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@litdemonick)
+[![YouTube](https://img.shields.io/badge/YouTube-@litdemonick-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xampp_27)
 [![Discord](https://img.shields.io/badge/Discord-Tu%20Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TUSERVIDOR)
 [![Portfolio](https://img.shields.io/badge/Portfolio-litdemonick.dev-9b00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://litdemonick.dev)
 

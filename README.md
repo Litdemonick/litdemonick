@@ -255,8 +255,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@litdemonick-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/litdemonick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Miranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-miranda-89239339b/)
-[![Instagram](https://img.shields.io/badge/Instagram-@litdemonick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soul_0f_the_sun/)
-[![YouTube](https://img.shields.io/badge/YouTube-@litdemonick-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xampp_27)
+[![Instagram](https://img.shields.io/badge/Instagram-@soul_0f_the_sun-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soul_0f_the_sun/)
+[![YouTube](https://img.shields.io/badge/YouTube-@xampp_27-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xampp_27)
 [![Discord](https://img.shields.io/badge/Discord-%20Prism-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a9vBhQwqHa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-litdemonick.dev-9b00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://litdemonick.github.io/Portafolio/)
 

@@ -203,12 +203,13 @@
 
 | ⭐ | 🗂 Proyecto | 📝 Descripción | 🔧 Tech Stack | 🔗 |
 |:---:|:---|:---|:---|:---:|
+| ★★★★☆ | **Digital Portfolio** | Bitácora técnica y documentación de proyectos académicos (UTP). | `HTML/CSS` `JS` `Blogger` | [🌐](https://github.com/Litdemonick/Portafolio) |
 | ★★★★★ | **GG_REWARDS** | Sistema de recompensas y gestión desarrollado para comunidad. | `Python` `Django` `PostgreSQL` | [📂](https://github.com/litdemonick/GG_REWARDS) |
 | ★★★★☆ | **Nexus / Prism** | Bots de Discord avanzados: Música, Seguridad y Economía. | `Discord.py` `Node.js` `SQLite` | [🤖](https://github.com/litdemonick) |
 | ★★★★☆ | **Password Vault** | Gestor de credenciales seguro con encriptación local. | `Java` `C#` `MySQL` | [📂](https://github.com/litdemonick/passwordvault) |
-| ★★★★☆ | **Portfolio Blog** | Portafolio académico y blog personal para la UTP. | `Blogger` `HTML/CSS` `JS` | [🌐](https://github.com/litdemonick/blog) |
-| ★★★★☆ | **Glimpse Tool** | Herramienta desktop ligera para captura de pantalla rápida. | `C#` `.NET` | [📂](https://github.com/litdemonick) |
-| ❓❓❓ | **Hytale Server** | Infraestructura de servidor dedicada en desarrollo... | `Ubuntu` `Java` `Docker` | 🔒 |
+| ★★★★☆ | **Blog** | blog personal para la UTP. | `Blog Django` `HTML/CSS` `JS` | [🌐](https://github.com/litdemonick/blog) |
+| ★★★★☆ | **Glimpse Tool** | Herramienta desktop ligera para captura de pantalla rápida. | `C#` `.NET` | [📂](https://github.com/Litdemonick/Glimpse) |
+
 
 </div>
 

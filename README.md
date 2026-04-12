@@ -13,7 +13,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Litdemonick/Litdemonick/output/github-snake-dark.svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=9B00FF&center=true&vCenter=true&width=850&lines=%E2%9A%94%EF%B8%8F+Full+Stack+Developer+%7C+UTP+%F0%9F%87%B5%F0%9F%87%A6;%F0%9F%92%BB+Software+Management+%26+Development;%F0%9F%8C%8D+David%2C+Chiriqu%C3%AD+%7C+Panam%C3%A1;%F0%9F%9A%80+Disponible+para+Misiones+%2F+Proyectos;%F0%9F%8E%AE+LVL+40+%7C+EXP+%E2%96%50%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=9B00FF&center=true&vCenter=true&width=850&lines=%E2%9A%94%EF%B8%8F+Full+Stack+Developer+%7C+UTP+%F0%9F%87%B5%F0%9F%87%A6;%F0%9F%92%BB+Software+Management+%26+Development;%F0%9F%8C%8D+David%2C+Chiriqu%C3%AD+%7C+Panam%C3%A1;%F0%9F%9A%80+Disponible+para+Misiones+%2F+Proyectos;%F0%9F%8E%AE+LVL+40+%7C+EXP+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+50%25)](https://git.io/typing-svg)
 <br/>
 
 <!-- ══════════════════════════════════════════

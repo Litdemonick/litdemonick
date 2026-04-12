@@ -304,74 +304,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@litdemonick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/litdemonick)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@litdemonick-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/litdemonick)
 [![YouTube](https://img.shields.io/badge/YouTube-@litdemonick-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xampp_27)
-[![Discord](https://img.shields.io/badge/Discord-Tu%20Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TUSERVIDOR)
-[![Portfolio](https://img.shields.io/badge/Portfolio-litdemonick.dev-9b00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://litdemonick.dev)
+[![Discord](https://img.shields.io/badge/Discord-Tu%20Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a9vBhQwqHa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-litdemonick.dev-9b00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://litdemonick.github.io/Portafolio/)
 
 <br/>
 
 **¿Tienes un proyecto épico? ¡Hablemos!**
 
-[![Email](https://img.shields.io/badge/📩%20Enviar%20Mensaje-tu@email.com-9b00ff?style=for-the-badge)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/📩%20Enviar%20Mensaje-badleon2744@gmail.com-9b00ff?style=for-the-badge)](mailto:badleon2744@gmail.com)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════
-     GUÍA DE CONFIGURACIÓN
-══════════════════════════════════════════ -->
 
-<details>
-<summary>⚙️ <b>Guía de Configuración — Haz clic para expandir</b></summary>
-
-<br/>
-
-### 📋 Lista de cosas a reemplazar
-
-| Placeholder | Qué poner |
-|:---|:---|
-| `litdemonick` | Tu username exacto de GitHub |
-| `TU_ALIAS` | Tu nickname o apodo |
-| `Carlos Miranda` | Carlos Miranda completo |
-| `GG_REWARDS` al `4` | Nombres exactos de tus 4 mejores repos |
-| `TUCANAL` | Tu canal de YouTube |
-| `TUSERVIDOR` | Código de invitación de tu servidor Discord |
-| `tu@email.com` | Tu correo de contacto |
-| `litdemonick.dev` | Tu dominio o portfolio |
-
-### 🐍 Activar la serpiente animada
-
-Crea el archivo `.github/workflows/snake.yml` en tu repo de perfil:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
 
 <!-- ══════════════════════════════════════════
      FOOTER
@@ -382,11 +328,11 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9b00ff&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 ```
-◀ ■ ● ▲ ▶   HECHO CON ♥ + ☕ EN DAVID, CHIRIQUÍ 🇵🇦   ◀ ■ ● ▲ ▶
+◀ ■ ● ▲ ▶   HECHO CON ENTUSIASMO + ☕ EN DAVID, CHIRIQUÍ 🇵🇦   ◀ ■ ● ▲ ▶
           © 2025 · INSERT COIN TO CONTINUE
-            ████████████████████░░░░  80%
+
+            ███████████░░░░  50%
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=litdemonick&style=flat-square&color=9b00ff&label=heroes+que+visitaron+este+perfil)
 
 </div>

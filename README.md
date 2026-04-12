@@ -264,7 +264,7 @@
 
 **¿Tienes un proyecto épico? ¡Hablemos!**
 
-[![Email](https://img.shields.io/badge/📩_Gmail-badleon2744@gmail.com-9b00ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badleon2744@gmail.com)
+[![Email](https://img.shields.io/badge/📩_Gmail-badleon2744@gmail.com-9b00ff?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=badleon2744@gmail.com)
 
 </div>
 

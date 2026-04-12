@@ -177,18 +177,11 @@
 
 <div align="center">
 
-
 ## 📈 ESTADÍSTICAS DE ARTIFACTO
 
-<img src="https://github-readme-stats.vercel.app/api?username=Litdemonick&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff" height="175" />
+<br/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litdemonick&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&text_color=e0d4ff" height="175" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Litdemonick&theme=radical&hide_border=true&background=0d0d0d&stroke=9b00ff&ring=9b00ff&fire=ff2d6d&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8877aa&border_radius=10" width="800" />
+<img width="850" src="https://streak-stats.demolab.com?user=litdemonick&theme=radical&hide_border=true&background=0d0d0d&stroke=9b00ff&ring=9b00ff&fire=ff2d6d&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8877aa&border_radius=10" />
 
 </div>
 

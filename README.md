@@ -197,20 +197,40 @@
 
 ---
 
-<!-- ══════════════════════════════════════════
-     PROYECTOS DESTACADOS
-══════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🗺 MISIONES COMPLETADAS — PROYECTOS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=GG_REWARDS&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/GG_REWARDS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=passwordvault&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/passwordvault)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=blog&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=Portafolio&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/Portafolio)
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Litdemonick/GG_REWARDS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=GG_REWARDS&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="GG_REWARDS" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Litdemonick/passwordvault">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=passwordvault&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="passwordvault" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Litdemonick/Portafolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=Portafolio&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="Portafolio" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Litdemonick/Nexus-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=Nexus-Bot&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="Nexus-Bot" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
 
 <br/>
 

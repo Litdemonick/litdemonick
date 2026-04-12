@@ -18,9 +18,9 @@
      BADGES DE VISITAS Y ESTADO
 ══════════════════════════════════════════ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=TUUSUARIO&style=for-the-badge&color=9b00ff&label=VISITAS+AL+PERFIL)
-![GitHub followers](https://img.shields.io/github/followers/TUUSUARIO?style=for-the-badge&color=9b00ff&labelColor=0d0d0d&label=SEGUIDORES)
-![GitHub User's stars](https://img.shields.io/github/stars/TUUSUARIO?style=for-the-badge&color=ffd700&labelColor=0d0d0d&label=ESTRELLAS+TOTALES)
+![Profile Views](https://komarev.com/ghpvc/?username=litdemonick&style=for-the-badge&color=9b00ff&label=VISITAS+AL+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/litdemonick?style=for-the-badge&color=9b00ff&labelColor=0d0d0d&label=SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/github/stars/litdemonick?style=for-the-badge&color=ffd700&labelColor=0d0d0d&label=ESTRELLAS+TOTALES)
 
 </div>
 
@@ -162,10 +162,10 @@
 
 ## 📈 GITHUB STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&text_color=e0d4ff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litdemonick&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litdemonick&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&text_color=e0d4ff&border_radius=10"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true&background=0d0d0d&stroke=9b00ff&ring=9b00ff&fire=ff2d6d&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8877aa&border_radius=10"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=litdemonick&theme=radical&hide_border=true&background=0d0d0d&stroke=9b00ff&ring=9b00ff&fire=ff2d6d&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8877aa&border_radius=10"/>
 
 </div>
 
@@ -179,7 +179,7 @@
 
 ## 🗺 MAPA DE ACTIVIDAD
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&bg_color=0d0d0d&color=9b00ff&line=9b00ff&point=00e5ff&area=true&hide_border=true&area_color=9b00ff)](https://github.com/TUUSUARIO)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=litdemonick&bg_color=0d0d0d&color=9b00ff&line=9b00ff&point=00e5ff&area=true&hide_border=true&area_color=9b00ff)](https://github.com/litdemonick)
 
 </div>
 
@@ -193,10 +193,10 @@
 
 ## 🗺 MISIONES COMPLETADAS — PROYECTOS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=NOMBRE-REPO-1&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/TUUSUARIO/NOMBRE-REPO-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=NOMBRE-REPO-2&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/TUUSUARIO/NOMBRE-REPO-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=NOMBRE-REPO-3&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/TUUSUARIO/NOMBRE-REPO-3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=NOMBRE-REPO-4&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/TUUSUARIO/NOMBRE-REPO-4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=GG_REWARDS&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/GG_REWARDS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=passwordvault&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/passwordvault)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=blog&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=litdemonick&repo=Portafolio&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff)](https://github.com/litdemonick/Portafolio)
 
 </div>
 
@@ -206,11 +206,11 @@
 
 | ⭐ | 🗂 Proyecto | 📝 Descripción | 🔧 Tech | 🔗 |
 |:---:|:---|:---|:---|:---:|
-| ★★★★★ | **Proyecto Épico #1** | App full-stack con 1,200+ usuarios activos en producción | `React` `Node.js` `MongoDB` `AWS` | [🔗](https://github.com/TUUSUARIO/REPO) |
-| ★★★★☆ | **API REST Legendaria** | Backend ultra-rápido con JWT auth, Swagger y CI/CD | `Express` `JWT` `Docker` `PostgreSQL` | [🔗](https://github.com/TUUSUARIO/REPO) |
-| ★★★★☆ | **E-commerce Dashboard** | Panel admin con métricas en tiempo real e inventario | `Vue.js` `Firebase` `Chart.js` | [🔗](https://github.com/TUUSUARIO/REPO) |
-| ★★★★☆ | **Portfolio Pixel** | Sitio personal con pixel art y 100/100 en Lighthouse | `Next.js` `Tailwind` `Framer` | [🔗](https://github.com/TUUSUARIO/REPO) |
-| ★★★☆☆ | **Bot Discord ⚡** | Bot con música, moderación e integración OpenAI | `Discord.js` `OpenAI` `Node.js` | [🔗](https://github.com/TUUSUARIO/REPO) |
+| ★★★★★ | **Proyecto Épico #1** | App full-stack con 1,200+ usuarios activos en producción | `React` `Node.js` `MongoDB` `AWS` | [🔗](https://github.com/litdemonick/REPO) |
+| ★★★★☆ | **API REST Legendaria** | Backend ultra-rápido con JWT auth, Swagger y CI/CD | `Express` `JWT` `Docker` `PostgreSQL` | [🔗](https://github.com/litdemonick/REPO) |
+| ★★★★☆ | **E-commerce Dashboard** | Panel admin con métricas en tiempo real e inventario | `Vue.js` `Firebase` `Chart.js` | [🔗](https://github.com/litdemonick/REPO) |
+| ★★★★☆ | **Portfolio Pixel** | Sitio personal con pixel art y 100/100 en Lighthouse | `Next.js` `Tailwind` `Framer` | [🔗](https://github.com/litdemonick/REPO) |
+| ★★★☆☆ | **Bot Discord ⚡** | Bot con música, moderación e integración OpenAI | `Discord.js` `OpenAI` `Node.js` | [🔗](https://github.com/litdemonick/REPO) |
 | ❓❓❓ | **????? ?????** | Próxima misión en desarrollo... 🚀 | `???` | 🔒 |
 
 </div>
@@ -251,9 +251,9 @@
 ## 🐍 CONTRIBUCIONES — MODO SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litdemonick/litdemonick/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/litdemonick/litdemonick/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/litdemonick/litdemonick/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -268,7 +268,7 @@
 
 ## 🥇 TROFEOS DE GITHUB
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/TUUSUARIO)
+[![trophy](https://github-profile-trophy.vercel.app/?username=litdemonick&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/litdemonick)
 
 </div>
 
@@ -282,13 +282,13 @@
 
 ## 🌐 CONECTAR CON EL HÉROE
 
-[![GitHub](https://img.shields.io/badge/GitHub-@TUUSUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TUUSUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu%20Nombre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TUUSUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-@TUUSUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TUUSUARIO)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@TUUSUARIO-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TUUSUARIO)
-[![YouTube](https://img.shields.io/badge/YouTube-@TUCANAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TUUSUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-@litdemonick-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/litdemonick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu%20Nombre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/litdemonick)
+[![Instagram](https://img.shields.io/badge/Instagram-@litdemonick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/litdemonick)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@litdemonick-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/litdemonick)
+[![YouTube](https://img.shields.io/badge/YouTube-@xampp_27-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@litdemonick)
 [![Discord](https://img.shields.io/badge/Discord-Tu%20Servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TUSERVIDOR)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tuusuario.dev-9b00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://tuusuario.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-litdemonick.dev-9b00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://litdemonick.dev)
 
 <br/>
 
@@ -313,14 +313,14 @@
 
 | Placeholder | Qué poner |
 |:---|:---|
-| `TUUSUARIO` | Tu username exacto de GitHub |
+| `litdemonick` | Tu username exacto de GitHub |
 | `TU_ALIAS` | Tu nickname o apodo |
-| `TU NOMBRE` | Tu nombre completo |
-| `NOMBRE-REPO-1` al `4` | Nombres exactos de tus 4 mejores repos |
+| `Carlos Miranda` | Carlos Miranda completo |
+| `GG_REWARDS` al `4` | Nombres exactos de tus 4 mejores repos |
 | `TUCANAL` | Tu canal de YouTube |
 | `TUSERVIDOR` | Código de invitación de tu servidor Discord |
 | `tu@email.com` | Tu correo de contacto |
-| `tuusuario.dev` | Tu dominio o portfolio |
+| `litdemonick.dev` | Tu dominio o portfolio |
 
 ### 🐍 Activar la serpiente animada
 
@@ -370,6 +370,6 @@ jobs:
             ████████████████████░░░░  80%
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=TUUSUARIO&style=flat-square&color=9b00ff&label=heroes+que+visitaron+este+perfil)
+![Visitor Badge](https://komarev.com/ghpvc/?username=litdemonick&style=flat-square&color=9b00ff&label=heroes+que+visitaron+este+perfil)
 
 </div>

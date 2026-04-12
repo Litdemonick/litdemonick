@@ -34,11 +34,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ♥ ♥ ♥          TU_ALIAS          LVL 99                   ║
-║  ████████████████████████████████████████░░░░  EXP 85%      ║
+║  ♥ ♥ ♥          Litdemonick          LVL 40                   ║
+║  █████████████████████████░░░░  EXP 50%      ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   > Hola! Soy [TU NOMBRE], desarrollador Full Stack.        ║
+║   > Hola! Soy Carlos Miranda, desarrollador Full Stack.        ║
 ║   > Nací y vivo en David, Chiriquí, Panamá 🇵🇦              ║
 ║   > Me apasiona construir apps bonitas y funcionales.        ║
 ║   > Siempre aprendiendo algo nuevo cada día.                 ║
@@ -62,7 +62,7 @@
 
 |  📁 REPOS  |  ⚡ COMMITS  |  🗺 PROYECTOS  |  🗓 AÑOS XP  |  🔀 PULL REQ  |  🐛 BUGS FIJOS  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **42** | **1,200+** | **15** | **3** | **89** | **∞** |
+| **19** | **1,200+** | **15** | **3** | **89** | **∞** |
 
 </div>
 
@@ -77,7 +77,6 @@
 ## ⚔ INVENTARIO DE HABILIDADES
 
 ### 🔤 Lenguajes
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,38 +85,47 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛡 Frameworks & Librerías
+---
 
+### 🛡️ Frameworks & Librerías
+**Frontend:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+
+**Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄 Bases de Datos
+---
 
+### 🗄️ Bases de Datos & ORMs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
 
 ### 🔧 Herramientas & DevOps
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ☁ Cloud & IA
+---
 
+### ☁️ Cloud & IA
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-7529E1?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 

@@ -316,7 +316,7 @@
 </div>
 
 ---
-
+![Snake animation](https://raw.githubusercontent.com/Litdemonick/Litdemonick/output/github-snake-dark.svg)
 
 
 <!-- ══════════════════════════════════════════

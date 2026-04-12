@@ -17,9 +17,9 @@
      BADGES DE VISITAS Y ESTADO
 ══════════════════════════════════════════ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Litdemonick&style=for-the-badge&color=9b00ff&label=VISITAS+AL+PERFIL)
-![GitHub followers](https://img.shields.io/github/followers/Litdemonick?style=for-the-badge&color=9b00ff&labelColor=0d0d0d&label=SEGUIDORES)
-![GitHub User's stars](https://img.shields.io/github/stars/Litdemonick?style=for-the-badge&color=ffd700&labelColor=0d0d0d&label=ESTRELLAS+TOTALES)
+![Profile Views](https://komarev.com/ghpvc/?username=Carlos-Miranda&style=for-the-badge&color=9b00ff&label=VISITAS+AL+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/Carlos-Miranda?style=for-the-badge&color=9b00ff&labelColor=0d0d0d&label=SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/github/stars/Carlos-Miranda?style=for-the-badge&color=ffd700&labelColor=0d0d0d&label=ESTRELLAS+TOTALES)
 
 </div>
 

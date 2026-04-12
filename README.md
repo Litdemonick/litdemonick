@@ -162,43 +162,37 @@
 ## 🎮 NIVEL DE HABILIDADES
 
 <pre>
-⚔️ Frontend Development   ████████████████████  95%  ★★★★★
-🛡️ Backend Development    ████████████████░░░░  82%  ★★★★☆
-🗄️ Bases de Datos         ████████████████░░░░  80%  ★★★★☆
-🎨 UI / UX Design         ███████████████░░░░░  75%  ★★★★☆
+⚔️ Frontend Development   ██████████░░░░░░░░░░  50%  ★★★☆☆
+🛡️ Backend Development    ███████████████░░░░░  75%  ★★★★☆
+🗄️ Bases de Datos         ██████████░░░░░░░░░░  50%  ★★★☆☆
+🎨 UI / UX Design         ██████████████░░░░░░  68%  ★★★☆☆
 ☁️ DevOps / Cloud         █████████████░░░░░░░  65%  ★★★☆☆
 🧠 Problem Solving        ████████████████████  99%  ★★★★★
-☕ Sobrevivir sin café     ██░░░░░░░░░░░░░░░░░░  10%  ★☆☆☆☆
+☕ Sobrevivir sin café     ██████░░░░░░░░░░░░░░ 30%  ★★☆☆☆
 </pre>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════
-     GITHUB STATS
-══════════════════════════════════════════ -->
-
 <div align="center">
 
-## 📈 GITHUB STATS
+## 📈 ESTADÍSTICAS DE ARTIFACTO
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litdemonick&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litdemonick&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&text_color=e0d4ff&border_radius=10"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=litdemonick&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litdemonick&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&text_color=e0d4ff&border_radius=10" />
 
-<img width="100%" src="https://streak-stats.demolab.com?user=litdemonick&theme=radical&hide_border=true&background=0d0d0d&stroke=9b00ff&ring=9b00ff&fire=ff2d6d&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8877aa&border_radius=10"/>
+<br/>
+
+<img width="850" src="https://streak-stats.demolab.com?user=litdemonick&theme=radical&hide_border=true&background=0d0d0d&stroke=9b00ff&ring=9b00ff&fire=ff2d6d&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8877aa&border_radius=10" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════
-     GRÁFICO DE ACTIVIDAD
-══════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🗺 MAPA DE ACTIVIDAD
+## 🗺️ RADAR DE ACTIVIDAD (LOGS)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=litdemonick&bg_color=0d0d0d&color=9b00ff&line=9b00ff&point=00e5ff&area=true&hide_border=true&area_color=9b00ff)](https://github.com/litdemonick)
 
@@ -261,39 +255,7 @@
 
 </div>
 
----
 
-<!-- ══════════════════════════════════════════
-     SNAKE CONTRIBUTION GRAPH
-══════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 CONTRIBUCIONES — MODO SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litdemonick/litdemonick/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/litdemonick/litdemonick/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/litdemonick/litdemonick/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════
-     TROFEOS
-══════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🥇 TROFEOS DE GITHUB
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=litdemonick&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/litdemonick)
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════
      REDES SOCIALES

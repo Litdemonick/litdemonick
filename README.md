@@ -199,53 +199,23 @@
 
 <div align="center">
 
-## 🗺 MISIONES COMPLETADAS — PROYECTOS
+## 🗺️ MISIONES COMPLETADAS (LOGS)
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Litdemonick/GG_REWARDS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=GG_REWARDS&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="GG_REWARDS" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Litdemonick/passwordvault">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=passwordvault&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="passwordvault" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Litdemonick/Portafolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=Portafolio&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="Portafolio" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Litdemonick/Nexus-Bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Litdemonick&repo=Nexus-Bot&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9b00ff&icon_color=00e5ff&text_color=e0d4ff&border_radius=10" alt="Nexus-Bot" />
-      </a>
-    </td>
-  </tr>
-</table>
+| ⭐ | 🗂 Proyecto | 📝 Descripción | 🔧 Tech Stack | 🔗 |
+|:---:|:---|:---|:---|:---:|
+| ★★★★★ | **GG_REWARDS** | Sistema de recompensas y gestión desarrollado para comunidad. | `Python` `Django` `PostgreSQL` | [📂](https://github.com/litdemonick/GG_REWARDS) |
+| ★★★★☆ | **Nexus / Prism** | Bots de Discord avanzados: Música, Seguridad y Economía. | `Discord.py` `Node.js` `SQLite` | [🤖](https://github.com/litdemonick) |
+| ★★★★☆ | **Password Vault** | Gestor de credenciales seguro con encriptación local. | `Java` `C#` `MySQL` | [📂](https://github.com/litdemonick/passwordvault) |
+| ★★★★☆ | **Portfolio Blog** | Portafolio académico y blog personal para la UTP. | `Blogger` `HTML/CSS` `JS` | [🌐](https://github.com/litdemonick/blog) |
+| ★★★★☆ | **Glimpse Tool** | Herramienta desktop ligera para captura de pantalla rápida. | `C#` `.NET` | [📂](https://github.com/litdemonick) |
+| ❓❓❓ | **Hytale Server** | Infraestructura de servidor dedicada en desarrollo... | `Ubuntu` `Java` `Docker` | 🔒 |
 
 </div>
-
----
 
 <br/>
 
-<div align="center">
-
-| ⭐ | 🗂 Proyecto | 📝 Descripción | 🔧 Tech | 🔗 |
-|:---:|:---|:---|:---|:---:|
-| ★★★★★ | **Proyecto Épico #1** | App full-stack con 1,200+ usuarios activos en producción | `React` `Node.js` `MongoDB` `AWS` | [🔗](https://github.com/litdemonick/REPO) |
-| ★★★★☆ | **API REST Legendaria** | Backend ultra-rápido con JWT auth, Swagger y CI/CD | `Express` `JWT` `Docker` `PostgreSQL` | [🔗](https://github.com/litdemonick/REPO) |
-| ★★★★☆ | **E-commerce Dashboard** | Panel admin con métricas en tiempo real e inventario | `Vue.js` `Firebase` `Chart.js` | [🔗](https://github.com/litdemonick/REPO) |
-| ★★★★☆ | **Portfolio Pixel** | Sitio personal con pixel art y 100/100 en Lighthouse | `Next.js` `Tailwind` `Framer` | [🔗](https://github.com/litdemonick/REPO) |
-| ★★★☆☆ | **Bot Discord ⚡** | Bot con música, moderación e integración OpenAI | `Discord.js` `OpenAI` `Node.js` | [🔗](https://github.com/litdemonick/REPO) |
-| ❓❓❓ | **????? ?????** | Próxima misión en desarrollo... 🚀 | `???` | 🔒 |
-
-</div>
+> [!NOTE]
+> Todos los proyectos listados son parte de mi formación en la **Universidad Tecnológica de Panamá** o proyectos de código abierto para la comunidad.
 
 ---
 

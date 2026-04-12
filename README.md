@@ -9,6 +9,8 @@
      TYPING ANIMADO
 ══════════════════════════════════════════ -->
 
+![Snake animation](https://raw.githubusercontent.com/Litdemonick/Litdemonick/output/github-snake-dark.svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=9B00FF&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%94+Full+Stack+Developer;%F0%9F%8C%8E+David%2C+Chiriqui%2C+Panama+%F0%9F%87%B5%F0%9F%87%A6;%F0%9F%9A%80+Disponible+para+proyectos;%E2%98%95+Powered+by+coffee+%26+music;%F0%9F%8E%AE+LVL+99+%7C+EXP+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25)](https://git.io/typing-svg)
 
 <br/>
@@ -316,7 +318,7 @@
 </div>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/Litdemonick/Litdemonick/output/github-snake-dark.svg)
+
 
 
 <!-- ══════════════════════════════════════════

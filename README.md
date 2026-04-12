@@ -6,8 +6,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9b00ff&height=200&section=header&text=Carlos%20Miranda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20David%2C%20Chiriquí%20🇵🇦&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 <!-- ══════════════════════════════════════════
-     TYPING ANIMADO
+     TYPING ANIMADO con snake
 ══════════════════════════════════════════ -->
+
 
 ![Snake animation](https://raw.githubusercontent.com/Litdemonick/Litdemonick/output/github-snake-dark.svg)
 

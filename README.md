@@ -161,17 +161,17 @@
 
 ## 🎮 NIVEL DE HABILIDADES
 
-</div>
+<pre>
+⚔️ Frontend Development   ████████████████████  95%  ★★★★★
+🛡️ Backend Development    ████████████████░░░░  82%  ★★★★☆
+🗄️ Bases de Datos         ████████████████░░░░  80%  ★★★★☆
+🎨 UI / UX Design         ███████████████░░░░░  75%  ★★★★☆
+☁️ DevOps / Cloud         █████████████░░░░░░░  65%  ★★★☆☆
+🧠 Problem Solving        ████████████████████  99%  ★★★★★
+☕ Sobrevivir sin café     ██░░░░░░░░░░░░░░░░░░  10%  ★☆☆☆☆
+</pre>
 
-```
-⚔  Frontend Development   ████████████████████  95%  ★★★★★
-🛡  Backend Development    ████████████████░░░░  82%  ★★★★☆
-🗄  Bases de Datos         ████████████████░░░░  80%  ★★★★☆
-🎨  UI / UX Design         ███████████████░░░░░  75%  ★★★★☆
-☁   DevOps / Cloud         █████████████░░░░░░░  65%  ★★★☆☆
-🧠  Problem Solving         ████████████████████  99%  ★★★★★
-☕  Sobrevivir sin café     ██░░░░░░░░░░░░░░░░░░  10%  ★☆☆☆☆
-```
+</div>
 
 ---
 
